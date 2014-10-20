@@ -9,14 +9,14 @@ This is a code book that describes the variables, the data, and work performed t
 
 ##1. Merge the training and the test sets to create one data set.
 - Read and create test data in memory. Test data includes the following files:
-1) 'test/X_test.txt': Test set
-2) 'test/y_test.txt': Test labels
-3) 'test/subject_test.txt': Subjects
+(1) 'test/X_test.txt': Test set
+(2) 'test/y_test.txt': Test labels
+(3) 'test/subject_test.txt': Subjects
 
 # Read and create training data in memory. Training data includes the following files:
-1) 'test/X_train.txt': Test set
-2) 'test/y_train.txt': Test labels
-3) 'test/subject_train.txt': Subjects
+(1) 'test/X_train.txt': Test set
+(2) 'test/y_train.txt': Test labels
+(3) 'test/subject_train.txt': Subjects
 
 - Merge test and training data
 - Give proper column names to merged data
